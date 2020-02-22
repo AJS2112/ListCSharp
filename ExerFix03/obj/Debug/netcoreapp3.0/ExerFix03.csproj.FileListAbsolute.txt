@@ -1,0 +1,11 @@
+D:\repos\udemy-c#-POO\ExerFix03\ExerFix03\bin\Debug\netcoreapp3.0\ExerFix03.exe
+D:\repos\udemy-c#-POO\ExerFix03\ExerFix03\bin\Debug\netcoreapp3.0\ExerFix03.deps.json
+D:\repos\udemy-c#-POO\ExerFix03\ExerFix03\bin\Debug\netcoreapp3.0\ExerFix03.runtimeconfig.json
+D:\repos\udemy-c#-POO\ExerFix03\ExerFix03\bin\Debug\netcoreapp3.0\ExerFix03.runtimeconfig.dev.json
+D:\repos\udemy-c#-POO\ExerFix03\ExerFix03\bin\Debug\netcoreapp3.0\ExerFix03.dll
+D:\repos\udemy-c#-POO\ExerFix03\ExerFix03\bin\Debug\netcoreapp3.0\ExerFix03.pdb
+D:\repos\udemy-c#-POO\ExerFix03\ExerFix03\obj\Debug\netcoreapp3.0\ExerFix03.csprojAssemblyReference.cache
+D:\repos\udemy-c#-POO\ExerFix03\ExerFix03\obj\Debug\netcoreapp3.0\ExerFix03.AssemblyInfoInputs.cache
+D:\repos\udemy-c#-POO\ExerFix03\ExerFix03\obj\Debug\netcoreapp3.0\ExerFix03.AssemblyInfo.cs
+D:\repos\udemy-c#-POO\ExerFix03\ExerFix03\obj\Debug\netcoreapp3.0\ExerFix03.dll
+D:\repos\udemy-c#-POO\ExerFix03\ExerFix03\obj\Debug\netcoreapp3.0\ExerFix03.pdb
